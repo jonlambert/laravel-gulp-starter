@@ -9,3 +9,20 @@ Also, I've literally just started this. Going to try out a few new tactics, so p
 ## To Do
   - Task-specific file watching (ie. when compass changes the `/assets/css` files, run `dev-build:css`).
   - More things.
+
+## Requirements
+  - PHP 5.4 (see Laravel Requirements)
+  - Node.js (+ npm)
+  - Ruby (for compass support. Run `gem install compass` to install.)
+
+## Usage
+```bash
+
+git clone https://github.com/jonlambert/laravel-gulp-starter your-project-name
+cd your-project-name
+composer install
+npm install
+bower install
+gulp build-dev
+
+```
