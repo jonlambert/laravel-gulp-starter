@@ -8,6 +8,7 @@ Also, I've literally just started this. Going to try out a few new tactics, so p
 
 ## To Do
   - Task-specific file watching (ie. when compass changes the `/assets/css` files, run `dev-build:css`).
+  - Add `package.json`
   - More things.
 
 ## Requirements
