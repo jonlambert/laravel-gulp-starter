@@ -1,3 +1,6 @@
+## PLEASE NOTE!
+With the introduction of Laravel 5 and Elixir, this repo is of no use...!
+
 ## Laravel 4.3 + Gulp + Compass
 
 I was fed up of the bootstrapping I needed to do for each project, so I created this repository. I'm aiming for this to be a fluid project, constantly changing as I encounter new bits I need to configure. I'm also playing around with Gulp as an alternative for Grunt (I like the pipes...). 
